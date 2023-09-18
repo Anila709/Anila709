@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anila Behera</h1>
 <h3 align="center">I'm a passionate flutter developer from India</h3>
-<img align="right" width=400 alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnetstermonir%2Fnetstermonir&psig=AOvVaw1rrN2jOKIklW6aSiCdsbq-&ust=1695107858772000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDdt4fPs4EDFQAAAAAdAAAAABAu">
+<img align="right" width=400 alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anila709&label=Profile%20views&color=0e75b6&style=flat" alt="anila709" /> </p>
 
