@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anila Behera</h1>
 <h3 align="center">I'm a passionate flutter developer from India</h3>
-<img align="right" width=400 alt="coding" src="https://lottiefiles.com/lottie-to-gif?lottie_url=https%3A%2F%2Fassets-v2.lottiefiles.com%2Fa%2Fc8cf2e32-116f-11ee-bc5e-ff8479f1e454%2Fj39YYBhxC9.json">
+<img align="right" width=400 alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnetstermonir%2Fnetstermonir&psig=AOvVaw1rrN2jOKIklW6aSiCdsbq-&ust=1695107858772000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDdt4fPs4EDFQAAAAAdAAAAABAu">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anila709&label=Profile%20views&color=0e75b6&style=flat" alt="anila709" /> </p>
 
@@ -9,8 +9,6 @@
 - 💬 Ask me about **HTML, CSS, Core Java, C, SQL etc.**
 
 - 📫 How to reach me **anilabehera76369@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/hp/Desktop/JOB_DOCS/AnilaBehera_Resume_FlutterDeveloper.pdf](file:///C:/Users/hp/Desktop/JOB_DOCS/AnilaBehera_Resume_FlutterDeveloper.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
