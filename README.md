@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anila Behera</h1>
 <h3 align="center">I'm a passionate flutter developer from India</h3>
-<img align="right" width=400 alt="coding" src="https://lottiefiles.com/lottie-to-gif?lottie_url=https%3A%2F%2Fassets-v2.lottiefiles.com%2Fa%2Fc8cf2e32-116f-11ee-bc5e-ff8479f1e454%2Fj39YYBhxC9.json"/>
+<img align="right" width=400 alt="coding" src="https://lottiefiles.com/lottie-to-gif?lottie_url=https%3A%2F%2Fassets-v2.lottiefiles.com%2Fa%2Fc8cf2e32-116f-11ee-bc5e-ff8479f1e454%2Fj39YYBhxC9.json">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anila709&label=Profile%20views&color=0e75b6&style=flat" alt="anila709" /> </p>
 
